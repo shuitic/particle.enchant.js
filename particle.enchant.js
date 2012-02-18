@@ -1,4 +1,3 @@
-enchant();
 var ParticleSystem = {
     createParticleSystem: function(scene, image, width, height, maxParticle) {
         this.particleCount = maxParticle;
